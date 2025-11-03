@@ -1,3 +1,6 @@
+![Header](./banner.png)
+
+
 # 👋 Ciao, sono Elisa Arnoldi (Ellittico)
 
 🎨 **Front-End Developer Junior**  
