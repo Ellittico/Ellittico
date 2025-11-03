@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./banner.jpg)
 
 
 # 👋 Ciao, sono Elisa Arnoldi (Ellittico)
