@@ -4,35 +4,29 @@
 # 👋 Ciao, sono Elisa Arnoldi (Ellittico)
 
 🎨 **Front-End Developer Junior**  
-📚 Studentessa di Ingegneria Informatica presso l’Università degli Studi di Bergamo  
-💡 Appassionata di design, sviluppo web e interfacce moderne  
+ Studentessa di Ingegneria Informatica presso l’Università degli Studi di Bergamo  
+ Appassionata di design, sviluppo web e interfacce moderne  
 
 ---
 
 ### 🚀 Tecnologie principali
-React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma  
+React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma · Vite.js
 
 ---
 
 ### 🧩 Progetti
-- 🧠 **Blackbird Sentinel** — Interfaccia multipiattaforma per monitoraggio e analisi dati di rete  
-- 🌐 **Innovanet** — Frontend headless per e-commerce integrato con WordPress API  
-- 🔗 **Clookin IoT** — Dashboard web per dispositivi aziendali connessi  
+- **Blackbird Sentinel** — Interfaccia multipiattaforma per monitoraggio e analisi dati di rete  
+- **Innovanet** — Frontend headless per e-commerce integrato con WordPress API  
+- **Clookin IoT** — Dashboard web per dispositivi aziendali connessi  
 
-> *Per motivi di riservatezza, il codice sorgente di alcuni progetti non è pubblico.*
-
----
-
-### 📈 Statistiche
-![Ellittico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellittico&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellittico&layout=compact&theme=tokyonight)
+> *Per motivi di riservatezza, il codice sorgente dei progetti non è pubblico.*
 
 ---
 
 ### 📫 Contatti
-💌 [elisa.arnoldi@email.com](mailto:elisa.arnoldi@email.com)  
+💌 [elisa.arnoldi@email.com](mailto:elisa.arnoldi.ea@gmail.com)  
 🌍 [Portfolio Online](https://tua-url-portfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/tuonome)
+💼 [LinkedIn]([https://linkedin.com/in/tuonome](https://www.linkedin.com/in/elisa-arnoldi/))
 
 ---
 
