@@ -24,7 +24,7 @@ React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma · 
 ---
 
 ### 📫 Contatti
-💌 [elisa.arnoldi@email.com](mailto:elisa.arnoldi.ea@gmail.com)  
+💌 [elisa.arnoldi.ea@email.com](mailto:elisa.arnoldi.ea@gmail.com)  
 🌍 [Portfolio Online](https://tua-url-portfolio.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/elisa-arnoldi/)
 
