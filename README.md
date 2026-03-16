@@ -1,7 +1,7 @@
 ![Header](./banner.jpg)
 
 
-# 👋 Ciao, sono Elisa Arnoldi (Ellittico)
+# Ciao, sono Elisa Arnoldi
 
 🎨 **Front-End Developer Junior**  
  Neolaureata in Ingegneria Informatica presso l’Università degli Studi di Bergamo  
