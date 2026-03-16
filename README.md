@@ -4,19 +4,22 @@
 # 👋 Ciao, sono Elisa Arnoldi (Ellittico)
 
 🎨 **Front-End Developer Junior**  
- Studentessa di Ingegneria Informatica presso l’Università degli Studi di Bergamo  
- Appassionata di design, sviluppo web e interfacce moderne  
+ Neolaureata in Ingegneria Informatica presso l’Università degli Studi di Bergamo  
+ Appassionata di sviluppo web e interfacce moderne.
 
 ---
 
 ### 🚀 Tecnologie principali
-React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma · Vite.js
+React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma · Vite.js · Electron.js
+Next.js · PHP · SpringBoot
 
 ---
 
 ### 🧩 Progetti
-- **Blackbird Sentinel** — Interfaccia multipiattaforma per monitoraggio e analisi dati di rete  
-- **Innovanet** — Frontend headless per e-commerce integrato con WordPress API  
+- **Blackbird Sentinel** — Interfaccia multipiattaforma per monitoraggio e analisi dati di rete
+  Visitable al link con download: [Portale WEB](https://blackbirdfront.vercel.app/)
+- **Innovanet** — Frontend headless per e-commerce integrato con WordPress API
+  Visitabile al link: [Clicca Qui](https://www.innovanetsystem.com/)
 - **Clookin IoT** — Dashboard web per dispositivi aziendali connessi  
 
 > *Per motivi di riservatezza, il codice sorgente dei progetti non è pubblico.*
@@ -30,5 +33,3 @@ React · Next.js · Tailwind CSS · TypeScript · JavaScript · Git · Figma · 
 
 ---
 
-⭐️ *“Mi piace costruire esperienze web pulite, fluide e funzionali.  
-Ogni progetto è un’occasione per imparare qualcosa di nuovo.”*
